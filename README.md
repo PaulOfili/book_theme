@@ -1,2 +1,2 @@
 # book_theme
-A simple book theme using Bootstrap 4
+A simple book launch theme using Bootstrap 4
